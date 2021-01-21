@@ -84,6 +84,9 @@ spring-boot-starter-actuator模块根据应用依赖和配置自动创建出来�
 
 
 
+博客地址：https://zhuanlan.zhihu.com/p/64301275
+
+
 
 
 
